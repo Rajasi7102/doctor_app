@@ -165,6 +165,7 @@ class _MyScreen2 extends State<Screen2> {
                     'Available Slots',
                     style: TextStyle(
                       fontSize: 18,
+                       color: Colors.white,
                       
                       fontWeight: FontWeight.bold, 
 
