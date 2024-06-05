@@ -16,7 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 Output:
-![Doctor Specialist](https://github.com/Rajasi7102/doctor_app/assets/126382099/863fba0b-aa31-4415-b2a0-f4c8301e966d)
+
 
 ![Login Signup](https://github.com/Rajasi7102/doctor_app/assets/126382099/01047bf5-f47e-4e75-a7c1-a3a11a16d4eb)
 
