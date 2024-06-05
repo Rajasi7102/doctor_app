@@ -21,6 +21,7 @@ Output:
 ![Login Signup](https://github.com/Rajasi7102/doctor_app/assets/126382099/01047bf5-f47e-4e75-a7c1-a3a11a16d4eb)
 
 ![Login](https://github.com/Rajasi7102/doctor_app/assets/126382099/b81d7c2a-82e3-45b8-9acc-9f50fc32459a)
+![bookslot](https://github.com/Rajasi7102/doctor_app/assets/126382099/3d090d36-c16c-4d16-9bf4-6b1bbd7ed995)
 
 
 
